@@ -4,6 +4,8 @@ import {Main} from "./layout/sections/main/Main";
 import styled from "styled-components";
 import photo from "./assets/img/my-photo.webp"
 import {Majors} from "./layout/sections/majors/Majors";
+import {Testimony} from "./layout/sections/testimony/Testimony";
+import {Contact} from "./layout/sections/contact/Contact";
 
 
 function App() {
@@ -14,7 +16,8 @@ function App() {
                 <Main />
             </StyledHeaderMainWrapper>
             <Majors />
-
+            <Testimony />
+            <Contact />
         </div>
     );
 }

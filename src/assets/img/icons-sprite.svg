@@ -43,8 +43,13 @@
         <path d="M22.105 4.42873C22.7563 3.61871 22.1425 2.45837 21.06 2.45837H12.665C12.1963 2.45837 11.7625 2.69437 11.5288 3.07542L5.17629 13.4692C4.67504 14.2879 5.30504 15.3093 6.31129 15.3093H10.5975L6.56004 25.2225C5.97629 26.4763 7.55379 27.6231 8.61379 26.716L25 11.4694H16.4388L22.105 4.42873V4.42873Z" stroke="#222A36" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
     <g id="arrow-right">
-        <path d="M6.66666 20.0001H33.3333" stroke="#676CDB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        <path d="M21.6667 8.33337L33.3333 20L21.6667 31.6667" stroke="#676CDB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M1.66666 13.0001H28.3333" stroke="#676CDB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M16.6667 1.33337L28.3333 13L16.6667 24.6667" stroke="#676CDB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+
+    <g id="arrow-left">
+        <path d="M33.3333 20H6.66667" stroke="#676CDB" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        <path d="M18.3333 31.6667L6.66667 20L18.3333 8.33335" stroke="#676CDB" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
     </g>
 
 

@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from "styled-components";
 import {FlexWrapper} from "../../../components/FlexWrapper";
-import {Icon} from "../../../components/icon/Icon";
 import {Major} from "./Major";
 
 // const majorItems = [{iconId: "computer", title: "Front End Developer"},
